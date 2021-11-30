@@ -166,6 +166,7 @@ button:hover, button:focus  {
         /* better to use fractions as they are more repsonsive than pixels */
         grid-gap: 20px;
         margin: 0;
+        padding: 10px;
     }
     
     .grid__item  {
