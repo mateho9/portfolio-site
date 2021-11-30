@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!--Might need some better heading tags for accessibility-->
+<html>
+    <head>
+      <meta charset="utf-8">
+      <title>Contact Matt Browning</title>
+      <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+      <link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@400;700&display=swap" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="css/style.production.css">
+      <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    </head>
+    <header class="page-header">
+      <img src="img/logo.png" alt="Personal logo of Matt Browning, an image of a tree on the left hand side of my name written in bold letters">
+      <nav>
+          <ul role="menubar" class="navigation-list">
+            <li role="presentation">
+              <a href="index.html" role="menuitem" class="navigation-list__item ">Home</a>
+            </li>
+            <li role="presentation">
+              <a href="about.html" role="menuitem" class="navigation-list__item">About Me</a>
+            </li>
+            <li role="presentation">
+              <a href="contact.html" role="menuitem" class="navigation-list__item navigation-list__item--active">Contact</a>
+            </li>
+            <li role="presentation">
+              <a href="work.html" class="navigation-list__item">Work</a>
+            </li>
+          </ul> 
+      </nav>
+    </header>
+  <body>
+      <div>
+        <h1>Contact Me</h1> 
+        <br>
+        Email: <!--This works but I have no idea if its proper.-->
+        <a href="mailto:mateho9@gmail.com">mateho9@gmail.com</a>
+        <br>
+      </div>
+      <br>  <!--Added <br> for visuals, not sure if theres a better way to do it-->          
+      <main>
+        <!--Added a few changes to the excercise task, I liked the first and last name addition-->
+        <form method="post" id="contact-form">
+        <!--The "contact form" id will only allow one contact form on the entire site-->
+        <!--Standard label will allow the change of all "standard-label" elements at once-->
+          <label class="standard-label" for="first-name">*First Name: </label>
+          <input type="text" id="first-name" required>
+          <br>
+          <br>
+          <label class="standard-label" for="last-name">Last name: </label>
+          <input type="text" id="last-name">
+          <br>
+          <br>
+          <label class="standard-label" for="contact-email">*E-mail: </label>
+          <input type="email" id="contact-email" required>
+          <br>
+          <br>
+          <!--Remove telephone line in the future-->
+          <label class="standard-label" for="phone-number">Telephone: </label>
+          <!--Revisit the pattern code sometime-->
+          <!--Only accepting US numbers as of now-->
+          <input type="tel" id="phone-number" pattern="\d{3}[\-]\d{3}[\-]\d{4}">
+          <br>
+          <br>
+          <label class="standard-label" for="contact-message">Message: </label>
+          <!--Great thing to use, always limit character count on forms-->
+          <textarea maxlength="240" id="contact-message" required></textarea>
+          <p>
+            240 character maximum
+          </p>
+          <input type="submit" value="Send message">
+        </form>
+      </main>
+    <script src="js/tota11y.min.js"></script>
+    <footer class="page-footer">
+            <!--will change to real address later, this is just a placeholder-->
+            1234 Regular St.<br> 
+            Anywhere, USA 98765<br>
+            Mobile: +1 972-533-4881<br>
+            <!--used my burner email for now-->
+            <div class="social-media">
+              <h2>Find me on</h2>
+              <a href="https://github.com/mateho9" target="_blank">
+                  <img src="img/github.svg" alt="Github">
+              </a>
+              <a href="https://twitter.com" target="_blank">
+                  <img src="img/twitter.svg" alt="Twitter">
+              </a>
+              <a href="https://linkedin.com">
+                  <img src="img/linkedin.svg" alt="LinkedIn">
+              </a>
+            </div>
+    </footer>
+  </body>
+    <br>
+</html>
