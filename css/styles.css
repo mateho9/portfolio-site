@@ -151,14 +151,15 @@ button:hover, button:focus  {
         grid-template-columns: 1fr 1fr 1fr;
         /* better to use fractions as they are more repsonsive than pixels */
         grid-gap: 20px;
-        margin: 0;
+        margin: 10px;
+        padding: 10px;
     }
 
     .grid__item  {
         background-color: var(--primary-color);
         width: auto;
         min-height: auto;
-        margin: 0;
+        margin: 10px;
     }
 
     .grid__item:last-child {
