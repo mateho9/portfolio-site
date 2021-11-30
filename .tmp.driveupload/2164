@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 e7083b1a7a68df0c1ee04612b72544de82e11472 mateho9 <88411689+mateho9@users.noreply.github.com> 1637434455 -0600	commit (initial): Initial commit
+e7083b1a7a68df0c1ee04612b72544de82e11472 e0eae63fcda783daa7fba220d8fb88491e3da059 mateho9 <88411689+mateho9@users.noreply.github.com> 1637434972 -0600	commit: updated index pages title
+e0eae63fcda783daa7fba220d8fb88491e3da059 7b8cc82e16b8d31640a0c2716ea741afa2cc4e21 mateho9 <88411689+mateho9@users.noreply.github.com> 1637435003 -0600	revert: Revert "updated index pages title"
+7b8cc82e16b8d31640a0c2716ea741afa2cc4e21 9aea38a2a0a5dcef436ecade22ba44468bdb5b8e mateho9 <88411689+mateho9@users.noreply.github.com> 1637436154 -0600	commit: updated about and contact page
+9aea38a2a0a5dcef436ecade22ba44468bdb5b8e f35ef6f573e9f3137a0846dfd28129421e1ef1da mateho9 <88411689+mateho9@users.noreply.github.com> 1637440092 -0600	pull --tags origin main: Fast-forward
+f35ef6f573e9f3137a0846dfd28129421e1ef1da f35ef6f573e9f3137a0846dfd28129421e1ef1da mateho9 <88411689+mateho9@users.noreply.github.com> 1637441976 -0600	checkout: moving from main to gh-pages
+f35ef6f573e9f3137a0846dfd28129421e1ef1da 85aa3e3d60f098647dc6042712b45657d973eb7c mateho9 <88411689+mateho9@users.noreply.github.com> 1637442025 -0600	commit: first commit
+85aa3e3d60f098647dc6042712b45657d973eb7c 85aa3e3d60f098647dc6042712b45657d973eb7c mateho9 <88411689+mateho9@users.noreply.github.com> 1637442239 -0600	reset: moving to HEAD
+85aa3e3d60f098647dc6042712b45657d973eb7c f35ef6f573e9f3137a0846dfd28129421e1ef1da mateho9 <88411689+mateho9@users.noreply.github.com> 1637442240 -0600	checkout: moving from gh-pages to main
+f35ef6f573e9f3137a0846dfd28129421e1ef1da 767e40f1ee3c5d2c6fdf75298bd6b7dc3ab725e1 mateho9 <88411689+mateho9@users.noreply.github.com> 1638205346 -0600	commit: Fixed errors after running W3C validation
+767e40f1ee3c5d2c6fdf75298bd6b7dc3ab725e1 85aa3e3d60f098647dc6042712b45657d973eb7c mateho9 <88411689+mateho9@users.noreply.github.com> 1638215174 -0600	checkout: moving from main to gh-pages
+85aa3e3d60f098647dc6042712b45657d973eb7c 85aa3e3d60f098647dc6042712b45657d973eb7c mateho9 <88411689+mateho9@users.noreply.github.com> 1638215252 -0600	reset: moving to HEAD
+85aa3e3d60f098647dc6042712b45657d973eb7c 767e40f1ee3c5d2c6fdf75298bd6b7dc3ab725e1 mateho9 <88411689+mateho9@users.noreply.github.com> 1638215252 -0600	checkout: moving from gh-pages to main
+767e40f1ee3c5d2c6fdf75298bd6b7dc3ab725e1 85aa3e3d60f098647dc6042712b45657d973eb7c mateho9 <88411689+mateho9@users.noreply.github.com> 1638215255 -0600	checkout: moving from main to gh-pages
+85aa3e3d60f098647dc6042712b45657d973eb7c 767e40f1ee3c5d2c6fdf75298bd6b7dc3ab725e1 mateho9 <88411689+mateho9@users.noreply.github.com> 1638215318 -0600	checkout: moving from gh-pages to main
+767e40f1ee3c5d2c6fdf75298bd6b7dc3ab725e1 85aa3e3d60f098647dc6042712b45657d973eb7c mateho9 <88411689+mateho9@users.noreply.github.com> 1638215349 -0600	checkout: moving from main to gh-pages
+85aa3e3d60f098647dc6042712b45657d973eb7c e69bb18eecc68dd7d2315f66c612167094e1631f mateho9 <88411689+mateho9@users.noreply.github.com> 1638215623 -0600	commit (merge): Merge branch 'main' into gh-pages
+e69bb18eecc68dd7d2315f66c612167094e1631f 7b6e325f47281ca4e8f3046f2e402bd6b26386ec mateho9 <88411689+mateho9@users.noreply.github.com> 1638215642 -0600	commit: merging to main
+7b6e325f47281ca4e8f3046f2e402bd6b26386ec 767e40f1ee3c5d2c6fdf75298bd6b7dc3ab725e1 mateho9 <88411689+mateho9@users.noreply.github.com> 1638215660 -0600	checkout: moving from gh-pages to main
+767e40f1ee3c5d2c6fdf75298bd6b7dc3ab725e1 7b6e325f47281ca4e8f3046f2e402bd6b26386ec mateho9 <88411689+mateho9@users.noreply.github.com> 1638286333 -0600	checkout: moving from main to gh-pages
+7b6e325f47281ca4e8f3046f2e402bd6b26386ec 767e40f1ee3c5d2c6fdf75298bd6b7dc3ab725e1 mateho9 <88411689+mateho9@users.noreply.github.com> 1638286397 -0600	checkout: moving from gh-pages to main
+767e40f1ee3c5d2c6fdf75298bd6b7dc3ab725e1 7b6e325f47281ca4e8f3046f2e402bd6b26386ec mateho9 <88411689+mateho9@users.noreply.github.com> 1638286432 -0600	merge gh-pages: Fast-forward
+7b6e325f47281ca4e8f3046f2e402bd6b26386ec 6f650e58bd1a8618565d4f17bc5ed1b3d028d984 mateho9 <88411689+mateho9@users.noreply.github.com> 1638286457 -0600	commit: deleted buttons on site
+6f650e58bd1a8618565d4f17bc5ed1b3d028d984 7b6e325f47281ca4e8f3046f2e402bd6b26386ec mateho9 <88411689+mateho9@users.noreply.github.com> 1638286498 -0600	checkout: moving from main to gh-pages
+7b6e325f47281ca4e8f3046f2e402bd6b26386ec fa86b5b20e4fbb16a34b7f29ff8dce4cc23a046c mateho9 <88411689+mateho9@users.noreply.github.com> 1638286621 -0600	commit: sync test
+fa86b5b20e4fbb16a34b7f29ff8dce4cc23a046c 6f650e58bd1a8618565d4f17bc5ed1b3d028d984 mateho9 <88411689+mateho9@users.noreply.github.com> 1638286629 -0600	checkout: moving from gh-pages to main
+6f650e58bd1a8618565d4f17bc5ed1b3d028d984 ce51bf69a66ee231e7591a05d68a02b7f8914cf6 mateho9 <88411689+mateho9@users.noreply.github.com> 1638286788 -0600	commit: removed buttons final
+ce51bf69a66ee231e7591a05d68a02b7f8914cf6 fa86b5b20e4fbb16a34b7f29ff8dce4cc23a046c mateho9 <88411689+mateho9@users.noreply.github.com> 1638286797 -0600	checkout: moving from main to gh-pages
